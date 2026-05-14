@@ -44,17 +44,52 @@
 
 # 🚀 About Me
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Frontend+Developer+⚡;UI%2FUX+Designer+🎨;Creative+Coder+💻;Building+Animated+Web+Experiences+🚀;Crafting+Modern+Interactive+Interfaces+✨" />
+
+</div>
+
+---
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
 ```yaml
 Name: Snehal
-Focus: Frontend Development & UI/UX
-Passion: Interactive Web Experiences
-Speciality: Modern Animations + Creative Interfaces
+Role: Frontend Developer
+Focus: UI/UX + Web Animations
+Speciality: Interactive Experiences
+Tech Stack:
+  - React.js
+  - Next.js
+  - TypeScript
+  - GSAP
+  - Tailwind CSS
+
 Currently Building:
   - Animated Websites
   - Interactive UI Systems
-  - Premium Portfolio Experiences
+  - Creative Portfolio Experiences
   - Full Stack Applications
 ```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snehalsuk&theme=tokyonight" />
+
+</div>
 
 ---
 
