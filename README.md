@@ -1,60 +1,179 @@
-<h1 align="center">Hi 👋, I'm Snehal</h1>
-<h3 align="center">Frontend Developer • UI/UX Designer • Creative Coder</h3>
+<div align="center">
 
-<p align="center">
-  Creating modern web experiences with smooth animations, interactive UI, and scalable frontend architecture.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Snehal;Frontend+Developer;UI%2FUX+Designer;Creative+Coder;Building+Modern+Animated+Experiences" />
 
-<p align="center">
-  <a href="https://midnightsun.in/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-midnightsun.in-111827?style=for-the-badge" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Snehal%20Sukhadeve&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/snehal-sukhadeve-2980551a2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="mailto:ssnehalsukhadeve@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-### ⚡ Tech Stack
+<div align="center">
 
-```txt
-React.js • Next.js • TypeScript • Tailwind CSS • GSAP
-Node.js • Express.js • MongoDB • Firebase • Frappe
+### ✨ Crafting immersive digital experiences with animations, interactions & modern frontend architecture.
 
-## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://midnightsun.in/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehal-sukhadeve-2980551a2/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssnehalsukhadeve@gmail.com)
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=snehalsuk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=snehalsuk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=snehalsuk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=snehalsuk&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=snehalsuk&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=snehalsuk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/snehalsuk) 
+<div align="center">
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://midnightsun.in/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-midnightsun.in-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/snehal-sukhadeve-2980551a2/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:ssnehalsukhadeve@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://buymeacoffee.com/snehalsuk">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```yaml
+Name: Snehal
+Focus: Frontend Development & UI/UX
+Passion: Interactive Web Experiences
+Speciality: Modern Animations + Creative Interfaces
+Currently Building:
+  - Animated Websites
+  - Interactive UI Systems
+  - Premium Portfolio Experiences
+  - Full Stack Applications
+```
+
+---
+
+# ⚡ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,bootstrap,aws,java,git,github,vscode,figma" />
+
+</div>
+
+---
+
+# 🎨 Creative Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+<img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue" />
+<img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Shadcn_UI-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/UI%2FUX-Design-purple?style=for-the-badge" />
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=snehalsuk&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehalsuk&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=snehalsuk&theme=tokyonight&hide_border=true&border_radius=20" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=snehalsuk&theme=algolia&no-frame=true&margin-w=15&margin-h=15" />
+
+</div>
+
+---
+
+# 🌌 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehalsuk&bg_color=0d1117&color=00e7ff&line=00e7ff&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+# 🔝 Top Contributed Repositories
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=snehalsuk&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+
+</div>
+
+---
+
+# ✨ Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://visitcount.itsvg.in/api?id=snehalsuk&icon=5&color=12" />
+
+</div>
+
+---
+
+# 💰 Support Me
+
+<div align="center">
+
+<a href="https://buymeacoffee.com/snehalsuk">
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💫 “Design. Animate. Innovate.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+</div>
