@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Snehal;Frontend+Developer;UI%2FUX+Designer;Creative+Coder;Building+Modern+Animated+Experiences" />
+
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=900&height=60&duration=4000&pause=1000&color=00F7FF&lines=Frontend+Developer;UI%2FUX+Designer;React+%7C+Next.js+Developer;Creative+Coder;Building+Animated+Experiences" />
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Snehal%20Sukhadeve&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
