@@ -78,21 +78,23 @@ Currently Building:
 
 ---
 
+
+
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=snehalsuk&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=snehalsuk&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehalsuk&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehalsuk&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=snehalsuk&theme=tokyonight&hide_border=true&border_radius=20" />
+<img width="70%" src="https://streak-stats.demolab.com?user=snehalsuk&theme=tokyonight&hide_border=true" />
 
 </div>
 
