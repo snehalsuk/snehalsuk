@@ -1,3 +1,33 @@
+<h1 align="center">Hi 👋, I'm Snehal</h1>
+<h3 align="center">Frontend Developer • UI/UX Designer • Creative Coder</h3>
+
+<p align="center">
+  Creating modern web experiences with smooth animations, interactive UI, and scalable frontend architecture.
+</p>
+
+<p align="center">
+  <a href="https://midnightsun.in/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-midnightsun.in-111827?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/snehal-sukhadeve-2980551a2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:ssnehalsukhadeve@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ⚡ Tech Stack
+
+```txt
+React.js • Next.js • TypeScript • Tailwind CSS • GSAP
+Node.js • Express.js • MongoDB • Firebase • Frappe
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://midnightsun.in/)
