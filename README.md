@@ -154,7 +154,7 @@ Currently Building:
 
 <div align="center">
 
-<img src="https://visitcount.itsvg.in/api?id=snehalsuk&icon=5&color=12" />
+<img src="https://komarev.com/ghpvc/?username=snehalsuk&label=VISITORS&color=blueviolet&style=for-the-badge" />
 
 </div>
 
