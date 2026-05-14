@@ -167,23 +167,6 @@ Currently Building:
 
 ---
 
-<div align="center">
-
-### ⚡ Live Contribution Snake Animation
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Contribution Heatmap
-
-<img width="100%" src="https://ghchart.rshah.org/00e7ff/snehalsuk" />
-
-</div>
 
 ---
 
