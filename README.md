@@ -149,11 +149,39 @@ Currently Building:
 
 ---
 
-# 🌌 Contribution Graph
+# 🌌 Interactive Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehalsuk&bg_color=0d1117&color=00e7ff&line=00e7ff&point=ffffff&area=true&hide_border=true" />
+<a href="https://github.com/snehalsuk">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=snehalsuk&bg_color=0d1117&color=00e7ff&line=00e7ff&point=ffffff&area=true&hide_border=true&radius=16" />
+</a>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snehalsuk&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snehalsuk&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=snehalsuk&theme=tokyonight&utcOffset=5.5" width="32%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Live Contribution Snake Animation
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Contribution Heatmap
+
+<img width="100%" src="https://ghchart.rshah.org/00e7ff/snehalsuk" />
 
 </div>
 
