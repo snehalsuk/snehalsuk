@@ -51,31 +51,13 @@
 </div>
 
 ---
-
 <div align="center">
 
 <table>
 <tr>
 <td>
 
-```yaml
-Name: Snehal
-Role: Frontend Developer
-Focus: UI/UX + Web Animations
-Speciality: Interactive Experiences
-Tech Stack:
-  - React.js
-  - Next.js
-  - TypeScript
-  - GSAP
-  - Tailwind CSS
 
-Currently Building:
-  - Animated Websites
-  - Interactive UI Systems
-  - Creative Portfolio Experiences
-  - Full Stack Applications
-```
 
 </td>
 </tr>
