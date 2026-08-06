@@ -51,29 +51,7 @@
 </div>
 
 ---
-<div align="center">
 
-<table>
-<tr>
-<td>
-
-
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snehalsuk&theme=tokyonight" />
-
-</div>
-
----
 
 # ⚡ Tech Arsenal
 
